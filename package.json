@@ -1,0 +1,17 @@
+{
+  "name": "testcdr",
+  "version": "1.0.0",
+  "description": "Technical exam PodGroup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Francisco Montero Martín",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^3.1.0",
+    "mongodb": "^2.2.33",
+    "node-fetch": "^2.1.2",
+    "progress": "^2.0.0"
+  }
+}
